@@ -1,0 +1,7 @@
+[Match]
+Name=enp1s0f0
+
+[Network]
+Address=10.10.99.99/16
+Gateway=10.10.0.1
+DNS=10.10.0.1
